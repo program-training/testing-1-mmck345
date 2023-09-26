@@ -1,0 +1,20 @@
+{
+  "name": "testing-1-mmck345",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12058156&assignment_repo_type=AssignmentRepo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.5",
+    "@types/lodash": "^4.14.199",
+    "vitest": "^0.34.5"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "lodash": "^4.17.21"
+  }
+}
